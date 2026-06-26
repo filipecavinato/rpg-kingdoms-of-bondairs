@@ -1,0 +1,22 @@
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Ambiente Virtual (venv)
+.venv/
+venv/
+ENV/
+env/
+
+# Configurações do PyCharm / IDE
+.idea/
+
+# Arquivos .JSOn
+*.json
+
+# Arquivos Sistema Operacional
+.DS_Store
+Thumbs.db
