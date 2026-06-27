@@ -14,6 +14,11 @@ env/
 # Configurações do PyCharm / IDE
 .idea/
 
+# Ignorar pastas de metadados e empacotamento Python
+*.egg-info/
+build/
+dist/
+
 # Arquivos .JSOn
 *.json
 
