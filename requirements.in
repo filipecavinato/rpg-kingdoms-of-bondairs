@@ -1,0 +1,3 @@
+rich
+pytest
+git+https://github.com/filipecavinato/cavinato-utils.git@main#egg=cavinato-utilidades
